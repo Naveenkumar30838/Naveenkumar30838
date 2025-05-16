@@ -17,7 +17,7 @@ This repository **Naveenkumar30838/Naveenkumar30838** is a ✨ _special_ ✨ rep
   </a>
 </p>
 
----
+
 
 ### 🚀 Programming Languages
 <p align="left">
@@ -28,7 +28,7 @@ This repository **Naveenkumar30838/Naveenkumar30838** is a ✨ _special_ ✨ rep
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
 </p>
 
----
+
 
 ### 🌐 Frontend Development
 <p align="left">
@@ -38,7 +38,7 @@ This repository **Naveenkumar30838/Naveenkumar30838** is a ✨ _special_ ✨ rep
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40"/>
 </p>
 
----
+
 
 ### 🧠 Backend Development
 <p align="left">
@@ -50,7 +50,6 @@ This repository **Naveenkumar30838/Naveenkumar30838** is a ✨ _special_ ✨ rep
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
 </p>
 
----
 
 ### 💻 Softwares
 <p align="left">
@@ -62,7 +61,7 @@ This repository **Naveenkumar30838/Naveenkumar30838** is a ✨ _special_ ✨ rep
   <img src="https://img.shields.io/badge/Burp%20Suite-FF6600?style=flat&logo=burpsuite&logoColor=white" />
 </p>
 
----
+
 
 
 <!--
@@ -78,8 +77,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
   
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="yourusername" />
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=naveenkumar30838&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="yourusername" />
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naveenkumar30838&layout=donut)](https://github.com/naveenkumar30838/github-readme-stats)
