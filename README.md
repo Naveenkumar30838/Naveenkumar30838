@@ -2,8 +2,6 @@
 
 <h3>A passionate Full Stack Developer from India 🇮🇳</h3>
 
----
-
 <!--
 This repository **Naveenkumar30838/Naveenkumar30838** is a ✨ _special_ ✨ repository because its `README.md` file appears directly on your GitHub profile.
 -->
