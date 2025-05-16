@@ -1,8 +1,12 @@
-## Hi there I'm Naveen Kumar 👋
-<h3 align="center">A passionate Fullstack Developer from India</h3>
-<!--
-**Naveenkumar30838/Naveenkumar30838** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
+## 👋 Hi there, I'm Naveen Kumar
 
+<h3>A passionate Full Stack Developer from India 🇮🇳</h3>
+
+---
+
+<!--
+This repository **Naveenkumar30838/Naveenkumar30838** is a ✨ _special_ ✨ repository because its `README.md` file appears directly on your GitHub profile.
+-->
 <p align="center">
   <a href="https://www.linkedin.com/in/naveen-kumar-7a4566223/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
