@@ -7,7 +7,7 @@ This repository **Naveenkumar30838/Naveenkumar30838** is a ✨ _special_ ✨ rep
 -->
 <p >
   <a href="https://www.linkedin.com/in/naveen-kumar-7a4566223/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img style="width: 35px;" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:naveenkumar30838a@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
