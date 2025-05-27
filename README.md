@@ -1,4 +1,4 @@
-## <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" /> Hi there, I'm Naveen Kumar
+## Hi there, I'm Naveen Kumar
 
 <h3>A passionate Full Stack Developer from India 🇮🇳</h3>
 
